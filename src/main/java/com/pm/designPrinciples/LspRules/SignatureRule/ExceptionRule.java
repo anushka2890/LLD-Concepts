@@ -1,4 +1,4 @@
-package com.pm.LspRules.SignatureRule;
+package com.pm.designPrinciples.LspRules.SignatureRule;
 
 
 // Exception Rule:

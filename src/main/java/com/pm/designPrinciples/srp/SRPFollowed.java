@@ -1,4 +1,4 @@
-package com.pm;
+package com.pm.designPrinciples.srp;
 import java.util.ArrayList;
 import java.util.List;
 

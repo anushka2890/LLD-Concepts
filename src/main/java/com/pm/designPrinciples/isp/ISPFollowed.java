@@ -1,4 +1,4 @@
-package com.pm.ISP;
+package com.pm.designPrinciples.isp;
 //Many client specific interfaces are better than one general purpose interface
 //Client should not be forced to implement methods they don't need to
 

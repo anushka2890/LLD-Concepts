@@ -1,4 +1,4 @@
-package com.pm.DIP;
+package com.pm.designPrinciples.dip;
 // High level module should not depend on low level module but rather both should depend on abstraction
 
 // Abstraction (Interface)

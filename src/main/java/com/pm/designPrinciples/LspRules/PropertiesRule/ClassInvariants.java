@@ -1,4 +1,4 @@
-package com.pm.LspRules.PropertiesRule;
+package com.pm.designPrinciples.LspRules.PropertiesRule;
 
 // Class Invariant of a parent class Object should not be broken by child class Object.
 // Hence child class can either maintain or strengthen the invariant but never narrows it down.

@@ -1,4 +1,4 @@
-package com.pm.LspRules.PropertiesRule;
+package com.pm.designPrinciples.LspRules.PropertiesRule;
 
 // Subclass methods should not be allowed state changes that
 // the base class never allowed.

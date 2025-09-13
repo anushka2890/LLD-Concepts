@@ -1,4 +1,4 @@
-package com.pm.LspRules.methodrule;
+package com.pm.designPrinciples.LspRules.methodrule;
 
 
 // A Precondition must be statisfied before a method can be executed.

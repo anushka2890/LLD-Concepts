@@ -1,4 +1,4 @@
-package com.pm.LspRules;
+package com.pm.designPrinciples.LspRules;
 
 
 // A Postcondition must be satisfied after a method is executed.

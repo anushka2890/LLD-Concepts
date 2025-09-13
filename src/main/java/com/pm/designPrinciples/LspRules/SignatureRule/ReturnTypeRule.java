@@ -1,4 +1,4 @@
-package com.pm.LspRules.SignatureRule;
+package com.pm.designPrinciples.LspRules.SignatureRule;
 
 // Return Type Rule :
 // Subtype overridden method return type should be either identical

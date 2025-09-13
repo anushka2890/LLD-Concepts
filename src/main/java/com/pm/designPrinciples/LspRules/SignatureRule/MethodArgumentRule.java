@@ -1,4 +1,4 @@
-package com.pm.LspRules.SignatureRule;
+package com.pm.designPrinciples.LspRules.SignatureRule;
 
 //1. Method Argument Rule
 //• The overridden method in the subclass must accept the same argument types as the parent, or wider (a "broader" type up the inheritance chain).

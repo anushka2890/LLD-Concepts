@@ -1,4 +1,4 @@
-package com.pm;
+package com.pm.designPrinciples.LspRules;
 
 import java.util.ArrayList;
 import java.util.List;
