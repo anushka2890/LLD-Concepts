@@ -3,6 +3,10 @@ package com.pm.designpatterns;
 import java.util.ArrayList;
 import java.util.List;
 
+// Observer Design Pattern: a behavioral design pattern that establishes a one-to-many
+// dependency between objects, where one object (the Subject or Observable) maintains a
+// list of its dependents (called Observers) and notifies them automatically of any state changes.
+
 interface ISubscriber {
     void update();
 }
